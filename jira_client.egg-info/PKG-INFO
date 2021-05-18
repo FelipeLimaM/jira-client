@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: jira-client
+Version: 0.1
+Summary: Client to communicate with Jira API version 3
+Home-page: https://github.com/flimam/jira-client
+Author: flimam
+Author-email: felipelimamorais@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: pip,jira,jira SM,jira service management,atlassian
+Platform: UNKNOWN

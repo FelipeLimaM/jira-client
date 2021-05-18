@@ -1,0 +1,10 @@
+setup.py
+jira_client/__init__.py
+jira_client/client.py
+jira_client/core.py
+jira_client/plugin.py
+jira_client/utils.py
+jira_client.egg-info/PKG-INFO
+jira_client.egg-info/SOURCES.txt
+jira_client.egg-info/dependency_links.txt
+jira_client.egg-info/top_level.txt
